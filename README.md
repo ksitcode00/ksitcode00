@@ -10,6 +10,8 @@ M.S. Biostatistics, UC San Diego &nbsp;|&nbsp; B.S. Statistics, UC Davis
 
 [Portfolio Projects](https://github.com/ksitcode00/portfolio-project) &nbsp;·&nbsp; [Statistical Learning](https://github.com/ksitcode00/statistical-learning-classification)
 
+**Question → Clean & Validate → Analyze → Model → Visualize → Recommend**
+
 </div>
 
 ---
@@ -19,6 +21,12 @@ M.S. Biostatistics, UC San Diego &nbsp;|&nbsp; B.S. Statistics, UC Davis
 Data Analyst with experience across marketing analytics and public-health research. I use SQL, Python, R, and statistical modeling to work through complex datasets, identify actionable patterns, and support business and research decisions.
 
 My work combines the practical discipline of analytics—defining a decision, validating messy data, and communicating a recommendation—with rigorous applied statistics. I am especially interested in roles where data can guide operational, policy, or research decisions.
+
+## What I Bring
+
+- **Real-world data:** Transaction, survey, clinical, environmental, and web-scraped datasets
+- **Analytical depth:** SQL, regression, longitudinal modeling, and causal-inference sensitivity analysis
+- **Decision focus:** Clear evidence for business, program, and research recommendations
 
 ## Professional Snapshot
 
@@ -38,7 +46,11 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 **Recommendation:** Manage toward closed rate and cost per closed lead; reallocate from weak partner/creative mixes, test stronger formats, and validate changes through controlled rollout.
 
+**My role:** Completed the end-to-end Python analysis, including data validation, trend and segment analysis, adjusted logistic regression, scenario modeling, and executive recommendations.
+
 `Python` · `pandas` · `Logistic Regression` · `KPI Analysis` · `Scenario Analysis`
+
+[Project README](https://github.com/ksitcode00/lead-quality-optimization) · [Analysis Notebook](https://github.com/ksitcode00/lead-quality-optimization/blob/main/notebooks/lead_quality_analysis.ipynb) · [Key Figures](https://github.com/ksitcode00/lead-quality-optimization/tree/main/figures) · [Methodology](https://github.com/ksitcode00/lead-quality-optimization/blob/main/docs/methodology.md)
 
 ![Cost per closed lead comparison](assets/lead-quality-impact.svg)
 
@@ -54,7 +66,11 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 **Program implication:** Cleaner-stove programs may have their clearest benefit during active cooking, while electricity access, kitchen setting, and household conditions still shape real-world exposure.
 
+**My role:** Led statistical analysis in R, including data cleaning, adjusted regression models, causal-inference sensitivity analysis, diagnostics, and interpretation for manuscript development.
+
 `R` · `Regression Modeling` · `Environmental Health` · `Mediation` · `Causal-Inference Sensitivity Analysis`
+
+[Project Overview](https://github.com/ksitcode00/portfolio-project/tree/main/household-air-pollution-analysis-r) · [R Analysis](https://github.com/ksitcode00/portfolio-project/blob/main/household-air-pollution-analysis-r/results/Air_Pollution_Research_V1.Rmd) · [Methods](https://github.com/ksitcode00/portfolio-project/blob/main/household-air-pollution-analysis-r/docs/methods_summary.md) · [Data Privacy](https://github.com/ksitcode00/portfolio-project/blob/main/household-air-pollution-analysis-r/docs/data_privacy.md)
 
 ![Adjusted pollution reduction during cooking](assets/air-pollution-impact.svg)
 
@@ -70,7 +86,11 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 **Risk implication:** Free-text symptom cleaning, repeated-measures modeling, and targeted risk communication can help identify groups that may benefit from symptom surveillance and support.
 
+**My role:** Conducted longitudinal statistical analysis in R, including symptom-data cleaning, repeated-measures restructuring, GEE and mixed-effects modeling, diagnostics, and interpretation.
+
 `R` · `GEE` · `GLMM` · `Longitudinal Analysis` · `Health-Survey Data`
+
+[Project Overview](https://github.com/ksitcode00/portfolio-project/tree/main/applied-longitudinal-survey-r) · [R Analysis](https://github.com/ksitcode00/portfolio-project/blob/main/applied-longitudinal-survey-r/analysis/original_research_analysis.Rmd) · [Methods](https://github.com/ksitcode00/portfolio-project/blob/main/applied-longitudinal-survey-r/docs/methods_summary.md) · [Data Privacy](https://github.com/ksitcode00/portfolio-project/blob/main/applied-longitudinal-survey-r/docs/data_privacy.md)
 
 ![Respiratory symptom odds during heatwave periods](assets/longitudinal-health-impact.svg)
 
@@ -86,7 +106,11 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 **What it demonstrates:** Collected, cleaned, and matched data across public web sources; engineered features and applied logistic and linear regression with diagnostic checks.
 
+**My role:** Built the Python data-collection, entity-matching, feature-engineering, modeling, diagnostic, and interpretation workflow.
+
 `Python` · `Web Scraping` · `Entity Matching` · `Feature Engineering` · `Regression Diagnostics`
+
+[Project Overview](https://github.com/ksitcode00/portfolio-project/tree/main/movie-success-analysis-python) · [Notebook](https://github.com/ksitcode00/portfolio-project/blob/main/movie-success-analysis-python/notebooks/movie_success_analysis.ipynb) · [Results Summary](https://github.com/ksitcode00/portfolio-project/blob/main/movie-success-analysis-python/docs/results_summary.md) · [Data Dictionary](https://github.com/ksitcode00/portfolio-project/blob/main/movie-success-analysis-python/docs/data_dictionary.md)
 
 ![Worldwide-gross model performance](assets/movie-success-impact.svg)
 
