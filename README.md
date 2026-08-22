@@ -70,7 +70,7 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 ---
 
-### 03 — [Longitudinal Health Analysis](https://github.com/ksitcode00/portfolio-project/tree/main/applied-longitudinal-survey-r)
+### 03 — [Longitudinal Health Analysis](https://github.com/ksitcode00/longitudinal-health-analysis)
 
 **Context:** UC San Diego longitudinal public-health research | 660 participants
 
@@ -84,7 +84,7 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 `R` · `GEE` · `GLMM` · `Longitudinal Analysis` · `Health-Survey Data`
 
-[Project Overview](https://github.com/ksitcode00/portfolio-project/tree/main/applied-longitudinal-survey-r) · [R Analysis](https://github.com/ksitcode00/portfolio-project/blob/main/applied-longitudinal-survey-r/analysis/original_research_analysis.Rmd) · [Methods](https://github.com/ksitcode00/portfolio-project/blob/main/applied-longitudinal-survey-r/docs/methods_summary.md) · [Data Privacy](https://github.com/ksitcode00/portfolio-project/blob/main/applied-longitudinal-survey-r/docs/data_privacy.md)
+[Project Overview](https://github.com/ksitcode00/longitudinal-health-analysis) · [R Analysis](https://github.com/ksitcode00/longitudinal-health-analysis/blob/main/analysis/longitudinal_health_analysis.Rmd) · [Figures](https://github.com/ksitcode00/longitudinal-health-analysis/tree/main/figures) · [Methods](https://github.com/ksitcode00/longitudinal-health-analysis/blob/main/docs/methodology.md) · [Data Privacy](https://github.com/ksitcode00/longitudinal-health-analysis/blob/main/docs/data_privacy.md)
 
 ![Respiratory symptom odds during heatwave periods](assets/longitudinal-health-impact.svg)
 
