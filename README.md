@@ -108,12 +108,29 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 ![Worldwide-gross model performance](assets/movie-success-impact.svg)
 
+---
+
+### 05 — [Confidential Clinical Screening Analytics](https://github.com/ksitcode00/confidential-clinical-screening-analysis)
+
+**Context:** Anonymized restricted-data analytics project
+
+**Research question:** How can a clinical-screening workflow be analyzed rigorously while protecting all project-identifying information and restricted data?
+
+**What it demonstrates:** Cohort auditing, generic screening/history outcome construction, exact confidence intervals, adjusted logistic regression, and privacy-aware documentation.
+
+**My role:** Built the R workflow for data-quality auditing, outcome construction, descriptive uncertainty estimation, adjusted modeling, diagnostic checks, and clear analytical reporting.
+
+`R` · `Clinical Screening` · `Logistic Regression` · `Data Quality` · `Privacy-Aware Analytics`
+
+[Project Overview](https://github.com/ksitcode00/confidential-clinical-screening-analysis) · [R Pipeline](https://github.com/ksitcode00/confidential-clinical-screening-analysis/tree/main/R) · [Methods](https://github.com/ksitcode00/confidential-clinical-screening-analysis/blob/main/docs/methodology.md) · [Data Privacy](https://github.com/ksitcode00/confidential-clinical-screening-analysis/blob/main/docs/data_privacy.md)
+
+![Confidential clinical screening workflow](assets/confidential-clinical-workflow.svg)
+
 ## Selected Research & Publications
 
 - **Heat and Dust Impacts on the Health of Refugees in Zaatari Refugee Camp** — Co-author · *GeoHealth* (2026) · [Paper](https://pubmed.ncbi.nlm.nih.gov/42524033/) · [DOI](https://doi.org/10.1029/2025GH001687)
 - **Determinants of Concentrations of Indoor Pollutants in Homes in Rural India** — Co-author · submitted to *Indoor Air*
-- **EyeMobile Clinic for Detection and Prevention of Eye Diseases in Uninsured Minorities** — Co-author · submitted manuscript
-- **ACE Annual Meeting 2025** — Poster presenter for research on improved cookstoves and eye-disease screening
+- **ACE Annual Meeting 2025** — Poster presenter for public-health research
 
 ## Additional Technical Work
 
