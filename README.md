@@ -28,7 +28,7 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 ## Featured Analytics Projects
 
-### 01 — [Lead Quality Optimization](https://github.com/ksitcode00/portfolio-project/tree/main/lead-quality-optimization)
+### 01 — [Lead Quality Optimization](https://github.com/ksitcode00/lead-quality-optimization)
 
 **Context:** Interview-style marketing analytics challenge
 
