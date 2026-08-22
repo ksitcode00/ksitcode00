@@ -110,7 +110,7 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 ## Selected Research & Publications
 
-- **Heat and Dust Impacts on Health of Refugees in Za’atari Camp** — Co-author · environmental and public-health analysis
+- **Heat and Dust Impacts on the Health of Refugees in Zaatari Refugee Camp** — Co-author · *GeoHealth* (2026) · [Paper](https://pubmed.ncbi.nlm.nih.gov/42524033/) · [DOI](https://doi.org/10.1029/2025GH001687)
 - **Determinants of Concentrations of Indoor Pollutants in Homes in Rural India** — Co-author · submitted to *Indoor Air*
 - **EyeMobile Clinic for Detection and Prevention of Eye Diseases in Uninsured Minorities** — Co-author · submitted manuscript
 - **ACE Annual Meeting 2025** — Poster presenter for research on improved cookstoves and eye-disease screening
