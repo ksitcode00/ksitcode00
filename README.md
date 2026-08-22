@@ -8,7 +8,7 @@
 
 M.S. Biostatistics, UC San Diego &nbsp;|&nbsp; B.S. Statistics, UC Davis
 
-[Portfolio Projects](https://github.com/ksitcode00/portfolio-project) &nbsp;·&nbsp; [Statistical Learning](https://github.com/ksitcode00/statistical-learning-classification)
+[Portfolio Projects](https://github.com/ksitcode00/portfolio-project)
 
 **Question → Clean & Validate → Analyze → Model → Visualize → Recommend**
 
@@ -18,20 +18,14 @@ M.S. Biostatistics, UC San Diego &nbsp;|&nbsp; B.S. Statistics, UC Davis
 
 ## About Me
 
-Data Analyst with experience across marketing analytics and public-health research. I use SQL, Python, R, and statistical modeling to work through complex datasets, identify actionable patterns, and support business and research decisions.
+Data Analyst with experience across gaming analytics and public-health research. I use SQL, Python, R, and statistical modeling to work through complex datasets, identify actionable patterns, and support business and research decisions.
 
 My work combines the practical discipline of analytics—defining a decision, validating messy data, and communicating a recommendation—with rigorous applied statistics. I am especially interested in roles where data can guide operational, policy, or research decisions.
-
-## What I Bring
-
-- **Real-world data:** Transaction, survey, clinical, environmental, and web-scraped datasets
-- **Analytical depth:** SQL, regression, longitudinal modeling, and causal-inference sensitivity analysis
-- **Decision focus:** Clear evidence for business, program, and research recommendations
 
 ## Professional Snapshot
 
 - **UC San Diego — Research Data Analyst:** Led statistical analysis across public-health research involving environmental exposure, clinical screening, and longitudinal health data.
-- **Galaxy Entertainment — TG Analysis Analyst:** Analyzed high-volume gaming transactions with SQL and R for customer segmentation, revenue KPI reporting, workforce planning, pricing, and revenue analysis.
+- **Galaxy Entertainment — TG Analysis Analyst:** Analyzed millions of gaming transactions with SQL and R for customer segmentation, revenue KPI reporting, workforce planning, pricing, and revenue analysis.
 - **Research:** Contributed to published and submitted research and presented two projects at the ACE Annual Meeting.
 
 ## Featured Analytics Projects
@@ -56,7 +50,7 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 ---
 
-### 02 — [Household Air Pollution Analysis](https://github.com/ksitcode00/portfolio-project/tree/main/household-air-pollution-analysis-r)
+### 02 — [Household Air Pollution Analysis](https://github.com/ksitcode00/household-air-pollution-analysis)
 
 **Context:** UC San Diego environmental-health research | 180 households
 
@@ -70,7 +64,7 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 `R` · `Regression Modeling` · `Environmental Health` · `Mediation` · `Causal-Inference Sensitivity Analysis`
 
-[Project Overview](https://github.com/ksitcode00/portfolio-project/tree/main/household-air-pollution-analysis-r) · [R Analysis](https://github.com/ksitcode00/portfolio-project/blob/main/household-air-pollution-analysis-r/results/Air_Pollution_Research_V1.Rmd) · [Methods](https://github.com/ksitcode00/portfolio-project/blob/main/household-air-pollution-analysis-r/docs/methods_summary.md) · [Data Privacy](https://github.com/ksitcode00/portfolio-project/blob/main/household-air-pollution-analysis-r/docs/data_privacy.md)
+[Project Overview](https://github.com/ksitcode00/household-air-pollution-analysis) · [R Analysis](https://github.com/ksitcode00/household-air-pollution-analysis/blob/main/analysis/air_pollution_analysis.Rmd) · [Methods](https://github.com/ksitcode00/household-air-pollution-analysis/blob/main/docs/methodology.md) · [Data Privacy](https://github.com/ksitcode00/household-air-pollution-analysis/blob/main/docs/data_privacy.md)
 
 ![Adjusted pollution reduction during cooking](assets/air-pollution-impact.svg)
 
@@ -120,6 +114,10 @@ My work combines the practical discipline of analytics—defining a decision, va
 - **Determinants of Concentrations of Indoor Pollutants in Homes in Rural India** — Co-author · submitted to *Indoor Air*
 - **EyeMobile Clinic for Detection and Prevention of Eye Diseases in Uninsured Minorities** — Co-author · submitted manuscript
 - **ACE Annual Meeting 2025** — Poster presenter for research on improved cookstoves and eye-disease screening
+
+## Additional Technical Work
+
+- [Statistical Learning: Classification & Model Selection](https://github.com/ksitcode00/statistical-learning-classification) — R implementations of logistic regression, LDA, SVM, trees, random forests, and cross-validation.
 
 ## Technical Skills
 
