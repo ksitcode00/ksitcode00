@@ -8,7 +8,7 @@
 
 M.S. Biostatistics, UC San Diego &nbsp;|&nbsp; B.S. Statistics, UC Davis
 
-[LinkedIn](https://www.linkedin.com/in/ka-wai-sit-723267212/) · [Featured Projects](#featured-analytics-projects) · [Email](mailto:kawaisit14@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ka-wai-sit-723267212/) · [Resume](assets/KaWaiSit_Analytics_Resume_Public.pdf) · [Featured Projects](#featured-analytics-projects) · [Email](mailto:kawaisit14@gmail.com)
 
 **Question → Clean & Validate → Analyze → Model → Visualize → Recommend**
 
@@ -133,6 +133,6 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 <br />
 
-[LinkedIn](https://www.linkedin.com/in/ka-wai-sit-723267212/) · [Email](mailto:kawaisit14@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ka-wai-sit-723267212/) · [Resume](assets/KaWaiSit_Analytics_Resume_Public.pdf) · [Email](mailto:kawaisit14@gmail.com)
 
 </div>
