@@ -8,7 +8,7 @@
 
 M.S. Biostatistics, UC San Diego &nbsp;|&nbsp; B.S. Statistics, UC Davis
 
-[Portfolio Projects](https://github.com/ksitcode00/portfolio-project)
+[Featured Projects](#featured-analytics-projects)
 
 **Question → Clean & Validate → Analyze → Model → Visualize → Recommend**
 
