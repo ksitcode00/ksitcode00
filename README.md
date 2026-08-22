@@ -30,27 +30,7 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 ## Featured Analytics Projects
 
-### 01 — [Lead Quality Optimization](https://github.com/ksitcode00/lead-quality-optimization)
-
-**Context:** Interview-style marketing analytics challenge
-
-**Business problem:** Could a marketing team raise cost per lead from **$30 to $33** if lead quality improves from **8.0% to 9.6%**?
-
-**Finding:** After evaluating lead-quality trends and segment-level drivers, the proposed scenario reduced estimated cost per closed lead from **$375 to about $344**.
-
-**Recommendation:** Manage toward closed rate and cost per closed lead; reallocate from weak partner/creative mixes, test stronger formats, and validate changes through controlled rollout.
-
-**My role:** Completed the end-to-end Python analysis, including data validation, trend and segment analysis, adjusted logistic regression, scenario modeling, and executive recommendations.
-
-`Python` · `pandas` · `Logistic Regression` · `KPI Analysis` · `Scenario Analysis`
-
-[Project README](https://github.com/ksitcode00/lead-quality-optimization) · [Analysis Notebook](https://github.com/ksitcode00/lead-quality-optimization/blob/main/notebooks/lead_quality_analysis.ipynb) · [Key Figures](https://github.com/ksitcode00/lead-quality-optimization/tree/main/figures) · [Methodology](https://github.com/ksitcode00/lead-quality-optimization/blob/main/docs/methodology.md)
-
-![Cost per closed lead comparison](assets/lead-quality-impact.svg)
-
----
-
-### 02 — [Household Air Pollution Analysis](https://github.com/ksitcode00/household-air-pollution-analysis)
+### 01 — [Household Air Pollution Analysis](https://github.com/ksitcode00/household-air-pollution-analysis)
 
 **Context:** UC San Diego environmental-health research | 180 households
 
@@ -70,7 +50,7 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 ---
 
-### 03 — [Longitudinal Health Analysis](https://github.com/ksitcode00/longitudinal-health-analysis)
+### 02 — [Longitudinal Health Analysis](https://github.com/ksitcode00/longitudinal-health-analysis)
 
 **Context:** UC San Diego longitudinal public-health research | 660 participants
 
@@ -90,7 +70,45 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 ---
 
-### 04 — [Movie Success Analysis](https://github.com/ksitcode00/movie-success-analysis)
+### 03 — [Confidential Clinical Screening Analytics](https://github.com/ksitcode00/confidential-clinical-screening-analysis)
+
+**Context:** Anonymized restricted-data analytics project
+
+**Research question:** How can a clinical-screening workflow be analyzed rigorously while protecting all project-identifying information and restricted data?
+
+**What it demonstrates:** Cohort auditing, generic screening/history outcome construction, exact confidence intervals, adjusted logistic regression, and privacy-aware documentation.
+
+**My role:** Built the R workflow for data-quality auditing, outcome construction, descriptive uncertainty estimation, adjusted modeling, diagnostic checks, and clear analytical reporting.
+
+`R` · `Clinical Screening` · `Logistic Regression` · `Data Quality` · `Privacy-Aware Analytics`
+
+[Project Overview](https://github.com/ksitcode00/confidential-clinical-screening-analysis) · [R Pipeline](https://github.com/ksitcode00/confidential-clinical-screening-analysis/tree/main/R) · [Methods](https://github.com/ksitcode00/confidential-clinical-screening-analysis/blob/main/docs/methodology.md) · [Data Privacy](https://github.com/ksitcode00/confidential-clinical-screening-analysis/blob/main/docs/data_privacy.md)
+
+![Confidential clinical screening workflow](assets/confidential-clinical-workflow.svg)
+
+---
+
+### 04 — [Lead Quality Optimization](https://github.com/ksitcode00/lead-quality-optimization)
+
+**Context:** Interview-style marketing analytics challenge
+
+**Business problem:** Could a marketing team raise cost per lead from **$30 to $33** if lead quality improves from **8.0% to 9.6%**?
+
+**Finding:** After evaluating lead-quality trends and segment-level drivers, the proposed scenario reduced estimated cost per closed lead from **$375 to about $344**.
+
+**Recommendation:** Manage toward closed rate and cost per closed lead; reallocate from weak partner/creative mixes, test stronger formats, and validate changes through controlled rollout.
+
+**My role:** Completed the end-to-end Python analysis, including data validation, trend and segment analysis, adjusted logistic regression, scenario modeling, and executive recommendations.
+
+`Python` · `pandas` · `Logistic Regression` · `KPI Analysis` · `Scenario Analysis`
+
+[Project README](https://github.com/ksitcode00/lead-quality-optimization) · [Analysis Notebook](https://github.com/ksitcode00/lead-quality-optimization/blob/main/notebooks/lead_quality_analysis.ipynb) · [Key Figures](https://github.com/ksitcode00/lead-quality-optimization/tree/main/figures) · [Methodology](https://github.com/ksitcode00/lead-quality-optimization/blob/main/docs/methodology.md)
+
+![Cost per closed lead comparison](assets/lead-quality-impact.svg)
+
+---
+
+### 05 — [Movie Success Analysis](https://github.com/ksitcode00/movie-success-analysis)
 
 **Context:** UC Davis data science project | 933-row final modeling dataset
 
@@ -107,24 +125,6 @@ My work combines the practical discipline of analytics—defining a decision, va
 [Project Overview](https://github.com/ksitcode00/movie-success-analysis) · [Notebook](https://github.com/ksitcode00/movie-success-analysis/blob/main/notebooks/movie_success_analysis.ipynb) · [Figures](https://github.com/ksitcode00/movie-success-analysis/tree/main/figures) · [Results Summary](https://github.com/ksitcode00/movie-success-analysis/blob/main/docs/results_summary.md) · [Data Dictionary](https://github.com/ksitcode00/movie-success-analysis/blob/main/docs/data_dictionary.md)
 
 ![Worldwide-gross model performance](assets/movie-success-impact.svg)
-
----
-
-### 05 — [Confidential Clinical Screening Analytics](https://github.com/ksitcode00/confidential-clinical-screening-analysis)
-
-**Context:** Anonymized restricted-data analytics project
-
-**Research question:** How can a clinical-screening workflow be analyzed rigorously while protecting all project-identifying information and restricted data?
-
-**What it demonstrates:** Cohort auditing, generic screening/history outcome construction, exact confidence intervals, adjusted logistic regression, and privacy-aware documentation.
-
-**My role:** Built the R workflow for data-quality auditing, outcome construction, descriptive uncertainty estimation, adjusted modeling, diagnostic checks, and clear analytical reporting.
-
-`R` · `Clinical Screening` · `Logistic Regression` · `Data Quality` · `Privacy-Aware Analytics`
-
-[Project Overview](https://github.com/ksitcode00/confidential-clinical-screening-analysis) · [R Pipeline](https://github.com/ksitcode00/confidential-clinical-screening-analysis/tree/main/R) · [Methods](https://github.com/ksitcode00/confidential-clinical-screening-analysis/blob/main/docs/methodology.md) · [Data Privacy](https://github.com/ksitcode00/confidential-clinical-screening-analysis/blob/main/docs/data_privacy.md)
-
-![Confidential clinical screening workflow](assets/confidential-clinical-workflow.svg)
 
 ## Selected Research & Publications
 
