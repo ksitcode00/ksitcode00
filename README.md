@@ -130,7 +130,10 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 - **Heat and Dust Impacts on the Health of Refugees in Zaatari Refugee Camp** — Co-author · *GeoHealth* (2026) · [Paper](https://pubmed.ncbi.nlm.nih.gov/42524033/) · [DOI](https://doi.org/10.1029/2025GH001687)
 - **Determinants of Concentrations of Indoor Pollutants in Homes in Rural India** — Co-author · submitted to *Indoor Air*
-- **ACE Annual Meeting 2025** — Poster presenter for public-health research
+- **Household Air Pollution by Cookstove Type and Home Characteristics** — Co-author · manuscript in preparation · statistical analysis completed
+- **Confidential Clinical Research** — Co-author · submitted manuscript
+- **Impacts of Improved Cookstoves on Indoor Pollution and Respiratory Illnesses** — Poster presenter · ACE Annual Meeting (2025)
+- **Confidential Clinical Research** — Poster presenter · ACE Annual Meeting (2025)
 
 ## Additional Technical Work
 
