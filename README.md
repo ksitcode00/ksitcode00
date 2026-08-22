@@ -90,7 +90,7 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 ---
 
-### 04 — [Movie Success Analysis](https://github.com/ksitcode00/portfolio-project/tree/main/movie-success-analysis-python)
+### 04 — [Movie Success Analysis](https://github.com/ksitcode00/movie-success-analysis)
 
 **Context:** UC Davis data science project | 933-row final modeling dataset
 
@@ -104,7 +104,7 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 `Python` · `Web Scraping` · `Entity Matching` · `Feature Engineering` · `Regression Diagnostics`
 
-[Project Overview](https://github.com/ksitcode00/portfolio-project/tree/main/movie-success-analysis-python) · [Notebook](https://github.com/ksitcode00/portfolio-project/blob/main/movie-success-analysis-python/notebooks/movie_success_analysis.ipynb) · [Results Summary](https://github.com/ksitcode00/portfolio-project/blob/main/movie-success-analysis-python/docs/results_summary.md) · [Data Dictionary](https://github.com/ksitcode00/portfolio-project/blob/main/movie-success-analysis-python/docs/data_dictionary.md)
+[Project Overview](https://github.com/ksitcode00/movie-success-analysis) · [Notebook](https://github.com/ksitcode00/movie-success-analysis/blob/main/notebooks/movie_success_analysis.ipynb) · [Figures](https://github.com/ksitcode00/movie-success-analysis/tree/main/figures) · [Results Summary](https://github.com/ksitcode00/movie-success-analysis/blob/main/docs/results_summary.md) · [Data Dictionary](https://github.com/ksitcode00/movie-success-analysis/blob/main/docs/data_dictionary.md)
 
 ![Worldwide-gross model performance](assets/movie-success-impact.svg)
 
