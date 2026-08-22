@@ -8,7 +8,7 @@
 
 M.S. Biostatistics, UC San Diego &nbsp;|&nbsp; B.S. Statistics, UC Davis
 
-[Portfolio Projects](https://github.com/ksitcode00/portfolio-project) &nbsp;·&nbsp; [Statistical Learning](https://github.com/ksitcode00/statistical-learning-classification) &nbsp;·&nbsp; [GitHub](https://github.com/ksitcode00)
+[Portfolio Projects](https://github.com/ksitcode00/portfolio-project) &nbsp;·&nbsp; [Statistical Learning](https://github.com/ksitcode00/statistical-learning-classification)
 
 </div>
 
@@ -18,75 +18,84 @@ M.S. Biostatistics, UC San Diego &nbsp;|&nbsp; B.S. Statistics, UC Davis
 
 Data Analyst with experience across marketing analytics and public-health research. I use SQL, Python, R, and statistical modeling to work through complex datasets, identify actionable patterns, and support business and research decisions.
 
-My work combines the practical discipline of analytics—defining a decision, validating messy data, and communicating a recommendation—with rigorous applied statistics. I build public-facing portfolios responsibly: code, workflow design, and aggregate results can be shared; restricted participant-level, contact-level, and employer-provided data cannot.
+My work combines the practical discipline of analytics—defining a decision, validating messy data, and communicating a recommendation—with rigorous applied statistics. I am especially interested in roles where data can guide operational, policy, or research decisions.
+
+## Professional Snapshot
+
+- **UC San Diego — Research Data Analyst:** Led statistical analysis across public-health research involving environmental exposure, clinical screening, and longitudinal health data.
+- **Galaxy Entertainment — TG Analysis Analyst:** Analyzed high-volume gaming transactions with SQL and R for customer segmentation, revenue KPI reporting, workforce planning, pricing, and revenue analysis.
+- **Research:** Contributed to published and submitted research and presented two projects at the ACE Annual Meeting.
 
 ## Featured Analytics Projects
 
 ### 01 — [Lead Quality Optimization](https://github.com/ksitcode00/portfolio-project/tree/main/lead-quality-optimization)
 
-**Business problem**
-Could a marketing team raise cost per lead from **$30 to $33** if lead quality improves from **8.0% to 9.6%**?
+**Context:** Interview-style marketing analytics challenge
 
-**Finding**
-After evaluating lead-quality trends and segment-level drivers, the proposed scenario reduced estimated cost per closed lead from **$375 to about $344**.
+**Business problem:** Could a marketing team raise cost per lead from **$30 to $33** if lead quality improves from **8.0% to 9.6%**?
 
-**Recommendation**
-Manage toward closed rate and cost per closed lead; reallocate from weak partner/creative mixes, test stronger formats, and validate changes through controlled rollout.
+**Finding:** After evaluating lead-quality trends and segment-level drivers, the proposed scenario reduced estimated cost per closed lead from **$375 to about $344**.
+
+**Recommendation:** Manage toward closed rate and cost per closed lead; reallocate from weak partner/creative mixes, test stronger formats, and validate changes through controlled rollout.
 
 `Python` · `pandas` · `Logistic Regression` · `KPI Analysis` · `Scenario Analysis`
+
+![Cost per closed lead comparison](assets/lead-quality-impact.svg)
 
 ---
 
 ### 02 — [Household Air Pollution Analysis](https://github.com/ksitcode00/portfolio-project/tree/main/household-air-pollution-analysis-r)
 
-**Research question**
-Were improved-cookstove households associated with lower indoor air pollution after accounting for household and program factors?
+**Context:** UC San Diego environmental-health research | 180 households
 
-**Finding**
-In adjusted models, improved-cookstove use was associated with **28% lower PM10**, **36% lower PM2.5**, and **38% lower PM1** during cooking periods.
+**Research question:** Were improved-cookstove households associated with lower indoor air pollution after accounting for household and program factors?
 
-**Program implication**
-Cleaner-stove programs may have their clearest benefit during active cooking, while electricity access, kitchen setting, and household conditions still shape real-world exposure.
+**Finding:** In adjusted models, improved-cookstove use was associated with **28% lower PM10**, **36% lower PM2.5**, and **38% lower PM1** during cooking periods.
+
+**Program implication:** Cleaner-stove programs may have their clearest benefit during active cooking, while electricity access, kitchen setting, and household conditions still shape real-world exposure.
 
 `R` · `Regression Modeling` · `Environmental Health` · `Mediation` · `Causal-Inference Sensitivity Analysis`
+
+![Adjusted pollution reduction during cooking](assets/air-pollution-impact.svg)
 
 ---
 
 ### 03 — [Longitudinal Health Analysis](https://github.com/ksitcode00/portfolio-project/tree/main/applied-longitudinal-survey-r)
 
-**Research question**
-How did self-reported health impacts and symptoms change across three survey phases, and which groups appeared most vulnerable?
+**Context:** UC San Diego longitudinal public-health research | 660 participants
 
-**Analysis**
-Cleaned free-text symptom data, reshaped repeated surveys from wide to long format, and modeled correlated outcomes with GEE and mixed-effects logistic regression.
+**Research question:** How did self-reported health impacts and symptoms change across three survey phases, and which groups appeared most vulnerable?
 
-**Risk implication**
-Reported impacts were highest during the most intense study period; respiratory history and household context identified groups that may benefit from targeted risk communication and symptom surveillance.
+**Finding:** Patients with asthma had approximately **2.3× higher odds of respiratory symptoms** during heatwave periods; reported impacts generally declined across later study phases.
+
+**Risk implication:** Free-text symptom cleaning, repeated-measures modeling, and targeted risk communication can help identify groups that may benefit from symptom surveillance and support.
 
 `R` · `GEE` · `GLMM` · `Longitudinal Analysis` · `Health-Survey Data`
+
+![Respiratory symptom odds during heatwave periods](assets/longitudinal-health-impact.svg)
 
 ---
 
 ### 04 — [Movie Success Analysis](https://github.com/ksitcode00/portfolio-project/tree/main/movie-success-analysis-python)
 
-**Question**
-Which production and audience factors help explain movie ratings and worldwide box-office performance?
+**Context:** UC Davis data science project | 933-row final modeling dataset
 
-**Analysis**
-Built a movie-level dataset by web scraping, cleaning, and matching records across public sources; engineered features and applied logistic and linear regression with diagnostic checks.
+**Question:** Which production and audience factors help explain movie ratings and worldwide box-office performance?
 
-**Finding**
-The final worldwide-gross model explained about **51%** of variation in log gross. Budget, audience rating, franchise status, and critic score were among the most informative factors.
+**Finding:** The final worldwide-gross model explained about **51%** of variation in log gross. Budget, audience rating, franchise status, and critic score were among the most informative factors.
+
+**What it demonstrates:** Collected, cleaned, and matched data across public web sources; engineered features and applied logistic and linear regression with diagnostic checks.
 
 `Python` · `Web Scraping` · `Entity Matching` · `Feature Engineering` · `Regression Diagnostics`
 
-## Research & Publications
+![Worldwide-gross model performance](assets/movie-success-impact.svg)
 
-My research work applies statistical analysis to environmental exposure, longitudinal health outcomes, and screening populations. I focus on question-driven analysis, transparent interpretation, and ethical handling of human-subjects data.
+## Selected Research & Publications
 
-- **Environmental health & air pollution** — household exposure analysis and program-relevant interpretation
-- **Longitudinal climate & health research** — repeated-measures modeling of self-reported health outcomes
-- **Screening-population analysis** — identification of higher-risk groups for evidence-informed outreach
+- **Heat and Dust Impacts on Health of Refugees in Za’atari Camp** — Co-author · environmental and public-health analysis
+- **Determinants of Concentrations of Indoor Pollutants in Homes in Rural India** — Co-author · submitted to *Indoor Air*
+- **EyeMobile Clinic for Detection and Prevention of Eye Diseases in Uninsured Minorities** — Co-author · submitted manuscript
+- **ACE Annual Meeting 2025** — Poster presenter for research on improved cookstoves and eye-disease screening
 
 ## Technical Skills
 
@@ -95,12 +104,6 @@ My research work applies statistical analysis to environmental exposure, longitu
 | **Programming & analytics** | SQL, Python, R, Excel, `pandas`, tidyverse, data cleaning, EDA, reporting |
 | **Statistical analysis** | Regression, logistic regression, longitudinal analysis, GEE, mixed-effects models, causal-inference sensitivity analysis, A/B testing |
 | **Decision support** | KPI analysis, segmentation, scenario analysis, data visualization, research communication |
-
-## Portfolio Principles
-
-- **Decision first:** State the business or research question before describing the method.
-- **Evidence clearly:** Put the most meaningful finding near the top; communicate effect sizes and uncertainty responsibly.
-- **Privacy by design:** Share reproducible structure and aggregate insights without exposing restricted data, confidential materials, or personal identifiers.
 
 <div align="center">
 
