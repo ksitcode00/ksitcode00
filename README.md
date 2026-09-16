@@ -104,23 +104,23 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 ---
 
-### 04 — [Lead Quality Optimization](https://github.com/ksitcode00/lead-quality-optimization)
+### 04 — [SF Transit Pulse](https://github.com/ksitcode00/sf-transit-pulse-site)
 
-**Context:** Interview-style marketing analytics challenge
+**Context:** Independent public-transit decision-support product | Auto-updating bilingual web application
 
-**Business problem:** Could a marketing team raise cost per lead from **$30 to $33** if lead quality improves from **8.0% to 9.6%**?
+**Product problem:** Most transit tools show an arrival time, but riders may still need to know whether vehicles are bunching, whether one direction has a longer gap, whether a transfer is realistic, and why one trip ranks above another.
 
-**Finding:** After evaluating lead-quality trends and segment-level drivers, the proposed scenario reduced estimated cost per closed lead from **$375 to about $344**.
+**What I built:** A public Muni decision system that combines live vehicle positions, trip predictions, service notices, road context, route-direction diagnostics, direct and one-transfer planning, and explainable Fastest, Balanced, and Historical Context rankings.
 
-**Recommendation:** Manage toward closed rate and cost per closed lead; reallocate from weak partner/creative mixes, test stronger formats, and validate changes through controlled rollout.
+**Engineering outcome:** The serverless pipeline refreshes core transit data about every three minutes, monitors freshness independently, recovers stale snapshots, and clearly distinguishes current, retained, delayed, and unavailable sources instead of presenting old data as realtime.
 
-**My role:** Completed the end-to-end Python analysis, including data validation, trend and segment analysis, adjusted logistic regression, scenario modeling, and executive recommendations.
+**My role:** Designed and built the end-to-end product in Python and JavaScript, including 511 and DataSF ingestion, GTFS-Realtime processing, geospatial matching, headway and bunching analysis, multi-objective trip scoring, bilingual responsive UI, automated testing, monitoring, and GitHub Pages deployment.
 
-`Python` · `pandas` · `Logistic Regression` · `KPI Analysis` · `Scenario Analysis`
+`Python` · `JavaScript` · `GTFS-Realtime` · `Geospatial Analytics` · `Decision Support` · `Data Pipelines`
 
-[Project README](https://github.com/ksitcode00/lead-quality-optimization) · [Analysis Notebook](https://github.com/ksitcode00/lead-quality-optimization/blob/main/notebooks/lead_quality_analysis.ipynb) · [Key Figures](https://github.com/ksitcode00/lead-quality-optimization/tree/main/figures) · [Methodology](https://github.com/ksitcode00/lead-quality-optimization/blob/main/docs/methodology.md)
+[Live App](https://ksitcode00.github.io/sf-transit-pulse-site/?lang=en) · [Project Overview](https://github.com/ksitcode00/sf-transit-pulse-site) · [Recommendation Method](https://github.com/ksitcode00/sf-transit-pulse-site#how-recommendations-are-calculated) · [Serverless Architecture](https://github.com/ksitcode00/sf-transit-pulse-site#serverless-architecture) · [Tests](https://github.com/ksitcode00/sf-transit-pulse-site#tests)
 
-![Lead quality decision dashboard](assets/lead-quality-decision-dashboard.svg)
+![SF Transit Pulse live Muni decision-support application](assets/sf-transit-pulse.png)
 
 ---
 
@@ -148,23 +148,23 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 ---
 
-### 06 — [SF Transit Pulse](https://github.com/ksitcode00/sf-transit-pulse-site)
+### 06 — [Lead Quality Optimization](https://github.com/ksitcode00/lead-quality-optimization)
 
-**Context:** Independent public-transit decision-support product | Auto-updating bilingual web application
+**Context:** Interview-style marketing analytics challenge
 
-**Product problem:** Most transit tools show an arrival time, but riders may still need to know whether vehicles are bunching, whether one direction has a longer gap, whether a transfer is realistic, and why one trip ranks above another.
+**Business problem:** Could a marketing team raise cost per lead from **$30 to $33** if lead quality improves from **8.0% to 9.6%**?
 
-**What I built:** A public Muni decision system that combines live vehicle positions, trip predictions, service notices, road context, route-direction diagnostics, direct and one-transfer planning, and explainable Fastest, Balanced, and Historical Context rankings.
+**Finding:** After evaluating lead-quality trends and segment-level drivers, the proposed scenario reduced estimated cost per closed lead from **$375 to about $344**.
 
-**Engineering outcome:** The serverless pipeline refreshes core transit data about every three minutes, monitors freshness independently, recovers stale snapshots, and clearly distinguishes current, retained, delayed, and unavailable sources instead of presenting old data as realtime.
+**Recommendation:** Manage toward closed rate and cost per closed lead; reallocate from weak partner/creative mixes, test stronger formats, and validate changes through controlled rollout.
 
-**My role:** Designed and built the end-to-end product in Python and JavaScript, including 511 and DataSF ingestion, GTFS-Realtime processing, geospatial matching, headway and bunching analysis, multi-objective trip scoring, bilingual responsive UI, automated testing, monitoring, and GitHub Pages deployment.
+**My role:** Completed the end-to-end Python analysis, including data validation, trend and segment analysis, adjusted logistic regression, scenario modeling, and executive recommendations.
 
-`Python` · `JavaScript` · `GTFS-Realtime` · `Geospatial Analytics` · `Decision Support` · `Data Pipelines`
+`Python` · `pandas` · `Logistic Regression` · `KPI Analysis` · `Scenario Analysis`
 
-[Live App](https://ksitcode00.github.io/sf-transit-pulse-site/?lang=en) · [Project Overview](https://github.com/ksitcode00/sf-transit-pulse-site) · [Recommendation Method](https://github.com/ksitcode00/sf-transit-pulse-site#how-recommendations-are-calculated) · [Serverless Architecture](https://github.com/ksitcode00/sf-transit-pulse-site#serverless-architecture) · [Tests](https://github.com/ksitcode00/sf-transit-pulse-site#tests)
+[Project README](https://github.com/ksitcode00/lead-quality-optimization) · [Analysis Notebook](https://github.com/ksitcode00/lead-quality-optimization/blob/main/notebooks/lead_quality_analysis.ipynb) · [Key Figures](https://github.com/ksitcode00/lead-quality-optimization/tree/main/figures) · [Methodology](https://github.com/ksitcode00/lead-quality-optimization/blob/main/docs/methodology.md)
 
-![SF Transit Pulse live Muni decision-support application](assets/sf-transit-pulse.png)
+![Lead quality decision dashboard](assets/lead-quality-decision-dashboard.svg)
 
 ## Selected Research & Publications
 
