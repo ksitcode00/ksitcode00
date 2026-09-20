@@ -30,7 +30,27 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 ## Featured Analytics Projects
 
-### 01 — [Household Air Pollution Analysis](https://github.com/ksitcode00/household-air-pollution-analysis)
+### 01 — [SF Transit Pulse](https://github.com/ksitcode00/sf-transit-pulse-site)
+
+**Context:** Independent public-transit decision-support product | Auto-updating bilingual web application
+
+**Product problem:** Most transit tools show an arrival time, but riders may still need to know whether vehicles are bunching, whether one direction has a longer gap, whether a transfer is realistic, and why one trip ranks above another.
+
+**What I built:** A public Muni decision system that combines live vehicle positions, trip predictions, service notices, road context, route-direction diagnostics, direct and one-transfer planning, and explainable Fastest, Balanced, and Historical Context rankings.
+
+**Engineering outcome:** The serverless pipeline refreshes core transit data about every three minutes, monitors freshness independently, recovers stale snapshots, and clearly distinguishes current, retained, delayed, and unavailable sources instead of presenting old data as realtime.
+
+**My role:** Designed and built the end-to-end product in Python and JavaScript, including 511 and DataSF ingestion, GTFS-Realtime processing, geospatial matching, headway and bunching analysis, multi-objective trip scoring, bilingual responsive UI, automated testing, monitoring, and GitHub Pages deployment.
+
+`Python` · `JavaScript` · `GTFS-Realtime` · `Geospatial Analytics` · `Decision Support` · `Data Pipelines`
+
+[Live App](https://ksitcode00.github.io/sf-transit-pulse-site/?lang=en) · [Project Overview](https://github.com/ksitcode00/sf-transit-pulse-site) · [Recommendation Method](https://github.com/ksitcode00/sf-transit-pulse-site#how-recommendations-are-calculated) · [Serverless Architecture](https://github.com/ksitcode00/sf-transit-pulse-site#serverless-architecture) · [Tests](https://github.com/ksitcode00/sf-transit-pulse-site#tests)
+
+![SF Transit Pulse live Muni decision-support application](assets/sf-transit-pulse.png)
+
+---
+
+### 02 — [Household Air Pollution Analysis](https://github.com/ksitcode00/household-air-pollution-analysis)
 
 **Context:** UC San Diego environmental-health research | 180 households
 
@@ -58,7 +78,7 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 ---
 
-### 02 — [Longitudinal Health Analysis](https://github.com/ksitcode00/longitudinal-health-analysis)
+### 03 — [Longitudinal Health Analysis](https://github.com/ksitcode00/longitudinal-health-analysis)
 
 **Context:** UC San Diego longitudinal public-health research | 660 participants
 
@@ -86,7 +106,7 @@ My work combines the practical discipline of analytics—defining a decision, va
 
 ---
 
-### 03 — [Privacy-Safe Clinical Screening Analytics](https://github.com/ksitcode00/privacy-safe-clinical-screening-analysis)
+### 04 — [Privacy-Safe Clinical Screening Analytics](https://github.com/ksitcode00/privacy-safe-clinical-screening-analysis)
 
 **Context:** Anonymized restricted-data analytics project
 
@@ -101,26 +121,6 @@ My work combines the practical discipline of analytics—defining a decision, va
 [Project Overview](https://github.com/ksitcode00/privacy-safe-clinical-screening-analysis) · [R Pipeline](https://github.com/ksitcode00/privacy-safe-clinical-screening-analysis/tree/main/R) · [Methods](https://github.com/ksitcode00/privacy-safe-clinical-screening-analysis/blob/main/docs/methodology.md) · [Data Privacy](https://github.com/ksitcode00/privacy-safe-clinical-screening-analysis/blob/main/docs/data_privacy.md)
 
 ![Restricted-data analytics architecture](assets/restricted-data-analytics-architecture.png)
-
----
-
-### 04 — [SF Transit Pulse](https://github.com/ksitcode00/sf-transit-pulse-site)
-
-**Context:** Independent public-transit decision-support product | Auto-updating bilingual web application
-
-**Product problem:** Most transit tools show an arrival time, but riders may still need to know whether vehicles are bunching, whether one direction has a longer gap, whether a transfer is realistic, and why one trip ranks above another.
-
-**What I built:** A public Muni decision system that combines live vehicle positions, trip predictions, service notices, road context, route-direction diagnostics, direct and one-transfer planning, and explainable Fastest, Balanced, and Historical Context rankings.
-
-**Engineering outcome:** The serverless pipeline refreshes core transit data about every three minutes, monitors freshness independently, recovers stale snapshots, and clearly distinguishes current, retained, delayed, and unavailable sources instead of presenting old data as realtime.
-
-**My role:** Designed and built the end-to-end product in Python and JavaScript, including 511 and DataSF ingestion, GTFS-Realtime processing, geospatial matching, headway and bunching analysis, multi-objective trip scoring, bilingual responsive UI, automated testing, monitoring, and GitHub Pages deployment.
-
-`Python` · `JavaScript` · `GTFS-Realtime` · `Geospatial Analytics` · `Decision Support` · `Data Pipelines`
-
-[Live App](https://ksitcode00.github.io/sf-transit-pulse-site/?lang=en) · [Project Overview](https://github.com/ksitcode00/sf-transit-pulse-site) · [Recommendation Method](https://github.com/ksitcode00/sf-transit-pulse-site#how-recommendations-are-calculated) · [Serverless Architecture](https://github.com/ksitcode00/sf-transit-pulse-site#serverless-architecture) · [Tests](https://github.com/ksitcode00/sf-transit-pulse-site#tests)
-
-![SF Transit Pulse live Muni decision-support application](assets/sf-transit-pulse.png)
 
 ---
 
