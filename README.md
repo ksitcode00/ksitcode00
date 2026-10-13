@@ -124,9 +124,9 @@ Selected aggregate estimates from the final manuscript. [Phase comparisons, anal
 
 **Business problem:** Could a marketing team raise cost per lead from **$30 to $33** if lead quality improves from **8.0% to 9.6%**?
 
-**Finding:** After evaluating lead-quality trends and segment-level drivers, the proposed scenario reduced estimated cost per closed lead from **$375 to about $344**.
+**Finding:** Evaluated lead quality fell from **58.1% in April to 30.8% in July**, then recovered. Under the supplied price-quality scenario, cost per qualifying lead falls from **$375 to $343.75**. This scenario is a target, not measured lift.
 
-**Recommendation:** Manage toward closed rate and cost per closed lead; reallocate from weak partner/creative mixes, test stronger formats, and validate changes through controlled rollout.
+**Recommendation:** Agree on the payment quality definition, track closed conversions alongside it, and test segment shifts before committing to the target.
 
 **My role:** Completed the end-to-end Python analysis, including data validation, trend and segment analysis, adjusted logistic regression, scenario modeling, and executive recommendations.
 
