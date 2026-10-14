@@ -8,7 +8,7 @@
 
 M.S. Biostatistics, UC San Diego &nbsp;|&nbsp; B.S. Statistics, UC Davis
 
-[LinkedIn](https://www.linkedin.com/in/ka-wai-sit-723267212/) · [Resume](assets/KaWaiSit_Analytics_Resume_Public.pdf) · [Featured Projects](#featured-analytics-projects) · [Email](mailto:kawaisit14@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ka-wai-sit-723267212/) · [Resume](assets/KaWaiSit_Analytics_Resume_Public.pdf) · [Featured Projects](#featured-analytics-projects) · [Side Projects](#side-projects--生活工具) · [Email](mailto:kawaisit14@gmail.com)
 
 **Question → Clean & Validate → Analyze → Model → Visualize → Recommend**
 
@@ -140,6 +140,26 @@ Selected aggregate estimates from the final manuscript. [Phase comparisons, anal
 ## Additional Technical Work
 
 - [Statistical Learning: Classification & Model Selection](https://github.com/ksitcode00/statistical-learning-classification) — R implementations of logistic regression, LDA, SVM, trees, random forests, and cross-validation.
+
+## Side Projects · 生活工具
+
+Small, practical applications built around everyday decisions. This space is separate from my featured analytics and research work.
+
+### [UNIQLO Deals Explorer](docs/side-projects/uniqlo-deals.md)
+
+**Private application · Public project notes**
+
+A personal shopping tool for browsing UNIQLO offers, clothing categories, and available source information. It uses six-hour scheduled updates, region-specific data and saved preferences, and clear labels when official sources cannot be verified.
+
+The six-region extension is implemented and locally tested. Current collection supports the mainland China product list and verified Hong Kong/Macau membership rules; Japan, US, and Taiwan product lists remain unavailable. Publication of the regional interface to the existing private app is pending restoration of its hosting connection.
+
+`React` · `JavaScript` · `GitHub Actions` · `Data Validation` · `Regional Shopping Tools`
+
+[Project notes & coverage](docs/side-projects/uniqlo-deals.md)
+
+![Local preview of UNIQLO Deals Explorer with region navigation, clothing filters and mainland China product cards](assets/uniqlo-deals-preview.png)
+
+*Local preview of the regional extension. The application and its source repository remain private.*
 
 ## Technical Skills
 
