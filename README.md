@@ -145,9 +145,11 @@ Selected aggregate estimates from the final manuscript. [Phase comparisons, anal
 
 Small, practical applications built around everyday decisions. This space is separate from my featured analytics and research work.
 
-### [UNIQLO Deals Explorer](docs/side-projects/uniqlo-deals.md)
+### [UNIQLO Deals Explorer](https://uniqlo-deals-kawai.kawaisit14.chatgpt.site/)
 
-**Private application · Public project notes**
+[**打开应用 → / Open app**](https://uniqlo-deals-kawai.kawaisit14.chatgpt.site/) · [Project notes](docs/side-projects/uniqlo-deals.md)
+
+私有应用，需使用有访问权限的账号登录。进入后选男装／女装和服装品类，查看价格与尺码；点商品图片或名称即可前往购买。当前线上为中国大陆版，六地区版待发布。
 
 A personal shopping tool for browsing UNIQLO offers, clothing categories, and available source information. It uses six-hour scheduled updates, region-specific data and saved preferences, and clear labels when official sources cannot be verified.
 
@@ -157,7 +159,7 @@ The six-region extension is implemented and locally tested. Current collection s
 
 [Project notes & coverage](docs/side-projects/uniqlo-deals.md)
 
-![Local preview of UNIQLO Deals Explorer with region navigation, clothing filters and mainland China product cards](assets/uniqlo-deals-preview.png)
+[![Local preview of UNIQLO Deals Explorer with region navigation, clothing filters and mainland China product cards](assets/uniqlo-deals-preview.png)](https://uniqlo-deals-kawai.kawaisit14.chatgpt.site/)
 
 *Local preview of the regional extension. The application and its source repository remain private.*
 

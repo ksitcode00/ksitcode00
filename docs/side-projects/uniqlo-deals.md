@@ -2,6 +2,16 @@
 
 **Personal shopping utility · Private application · Public project notes**
 
+[**打开应用 → / Open app**](https://uniqlo-deals-kawai.kawaisit14.chatgpt.site/)
+
+## 怎么使用
+
+1. 打开应用，使用有访问权限的账号登录。
+2. 选择男装／女装和服装品类，或搜索商品名称、款号，直接查看价格与榜单尺码。
+3. 点击商品图片或名称前往购买；点击爱心可收藏，收藏保存在当前浏览器。
+
+目前原网址提供中国大陆版；六地区界面已完成本地验证，仍待发布。
+
 A compact interface for checking UNIQLO prices and offers without repeatedly opening individual product pages. The project extends a shopping-list interface inspired by GoodPrices with scheduled collection, clothing filters, region-specific browsing, and explicit source-quality states.
 
 ## Interface preview
@@ -43,6 +53,6 @@ After publication, the same workflow detects the regional API, imports each mark
 
 ## Privacy and attribution
 
-The application, source code, data snapshots, Actions logs, and service credentials remain private. This public page contains only a project description and a safe interface preview; there are no inaccessible private-app or private-repository links.
+The application, source code, data snapshots, Actions logs, and service credentials remain private. This public page contains only a project description and a safe interface preview; the direct application link keeps its existing sign-in restriction, and no private-repository links or access credentials are exposed.
 
 The layout was inspired by [GoodPrices](https://goodprices.online/uniqlo/), which supplies the mainland China public list. Official regional sources remain authoritative for purchase conditions, stock, membership eligibility, and checkout prices. This is an independent personal project and is not affiliated with UNIQLO.
