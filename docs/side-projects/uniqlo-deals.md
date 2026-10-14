@@ -35,11 +35,13 @@ A compact interface for checking UNIQLO prices and offers without repeatedly ope
 | Mainland China | GoodPrices public product list; Tmall/Taobao and JD official activity checks are tracked separately. |
 | Japan | Official limited offers and sale products, collected anonymously through the local storefront’s public product interface with complete pagination and JPY prices. |
 | United States | Official limited offers and sale products, collected anonymously through the local storefront’s public product interface with complete pagination and USD cents preserved. |
-| Hong Kong | Explicitly verified shared membership-coupon rules; no verified product-price list yet. |
-| Macau | Only official rules explicitly applicable to Macau; no inferred Macau product prices or currency conversion. |
-| Taiwan | Official entry available; a reliable public product list has not yet been obtained. |
+| Hong Kong | Official limited offers and sale products, including HKD prices, original prices and dated offer validity; membership rules remain separate. |
+| Macau | Hong Kong/Macau official online-store offers in HKD, with the official policy confirming Macau delivery verified on every collection. Physical Macau-store MOP prices are not inferred. |
+| Taiwan | Official individual limited offers and clearance products in TWD. Mixed bundle promotions and APP-only membership prices are excluded from ordinary single-item discounts. |
 
-Product-price feeds are currently connected for mainland China, Japan and the United States. Hong Kong/Macau show the verified rules described above; Taiwan remains unavailable. Japanese and US size lists are labelled as product specifications, and their absence of a former price does not produce a discount percentage.
+All six regional entries now have product-offer lists through the sources described above. Macau is explicitly an online-shopping view using HKD prices and a verified Macau delivery policy. Overseas size lists are product specifications; when a source filter lacks a size name, the product’s stated size range is shown rather than invented remaining stock. Unknown former prices do not produce discount percentages.
+
+Macau online offers are conditional on checkout delivery coverage and inventory. The official store supports home delivery to most Hong Kong and Macau addresses, with exceptions; this does not establish Macau physical-store prices. [Official Macau delivery policy](https://faq-hk.uniqlo.com/pkb_Home_UQ_HK?fs=RelatedArticle&id=kA0Ie000000TOZz&l=en_US).
 
 The shared Hong Kong/Macau new-member rule is conditional: first-time membership, an HKD spending threshold, account-specific coupon issuance, and a validity period after issuance. It does not establish that a visitor owns a coupon or that every product has an automatic lower price. [Official Hong Kong/Macau coupon rules](https://faq-hk.uniqlo.com/articles/en_US/Knowledge/UNIQLO-Coupon-Details-HK000012369).
 
