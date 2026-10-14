@@ -145,23 +145,23 @@ Selected aggregate estimates from the final manuscript. [Phase comparisons, anal
 
 Small, practical applications built around everyday decisions. This space is separate from my featured analytics and research work.
 
-### [UNIQLO Deals Explorer](https://uniqlo-deals-kawai.kawaisit14.chatgpt.site/)
+### [UNIQLO Deals Explorer](https://ksitcode00.github.io/uniqlo-deals-site/)
 
-[**打开应用 → / Open app**](https://uniqlo-deals-kawai.kawaisit14.chatgpt.site/) · [Project notes](docs/side-projects/uniqlo-deals.md)
+[**打开应用 → / Open app**](https://ksitcode00.github.io/uniqlo-deals-site/) · [Project notes](docs/side-projects/uniqlo-deals.md)
 
-私有应用，需使用有访问权限的账号登录。进入后选男装／女装和服装品类，查看价格与尺码；点商品图片或名称即可前往购买。当前线上为中国大陆版，六地区版待发布。
+公开应用，无需 ChatGPT 或 GitHub 登录。进入后切换地区，选男装／女装和服装品类，查看价格与尺码；点商品图片或名称即可前往购买。后台约每 6 小时更新一次，收藏保存在当前浏览器。
 
 A personal shopping tool for browsing UNIQLO offers, clothing categories, and available source information. It uses six-hour scheduled updates, region-specific data and saved preferences, and clear labels when official sources cannot be verified.
 
-The six-region extension is implemented and locally tested. Current collection supports the mainland China product list and verified Hong Kong/Macau membership rules; Japan, US, and Taiwan product lists remain unavailable. Publication of the regional interface to the existing private app is pending restoration of its hosting connection.
+The six-region interface is live on GitHub Pages. Current collection supports the mainland China product list and verified Hong Kong/Macau membership rules; Japan, US, and Taiwan product lists remain unavailable and display source limitations rather than substitute prices.
 
 `React` · `JavaScript` · `GitHub Actions` · `Data Validation` · `Regional Shopping Tools`
 
 [Project notes & coverage](docs/side-projects/uniqlo-deals.md)
 
-[![Local preview of UNIQLO Deals Explorer with region navigation, clothing filters and mainland China product cards](assets/uniqlo-deals-preview.png)](https://uniqlo-deals-kawai.kawaisit14.chatgpt.site/)
+[![Local preview of UNIQLO Deals Explorer with region navigation, clothing filters and mainland China product cards](assets/uniqlo-deals-preview.png)](https://ksitcode00.github.io/uniqlo-deals-site/)
 
-*Local preview of the regional extension. The application and its source repository remain private.*
+*Six-region interface preview. The application is public; original source and collection workflow remain private.*
 
 ## Technical Skills
 

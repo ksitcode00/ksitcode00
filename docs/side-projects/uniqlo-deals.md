@@ -1,16 +1,16 @@
 # UNIQLO Deals Explorer
 
-**Personal shopping utility · Private application · Public project notes**
+**Personal shopping utility · Public application · Private original source**
 
-[**打开应用 → / Open app**](https://uniqlo-deals-kawai.kawaisit14.chatgpt.site/)
+[**打开应用 → / Open app**](https://ksitcode00.github.io/uniqlo-deals-site/)
 
 ## 怎么使用
 
-1. 打开应用，使用有访问权限的账号登录。
+1. 打开应用，无需 ChatGPT 或 GitHub 登录；顶部可切换地区。
 2. 选择男装／女装和服装品类，或搜索商品名称、款号，直接查看价格与榜单尺码。
 3. 点击商品图片或名称前往购买；点击爱心可收藏，收藏保存在当前浏览器。
 
-目前原网址提供中国大陆版；六地区界面已完成本地验证，仍待发布。
+六地区界面已在 GitHub Pages 上线。后台约每 6 小时核对来源；页面「读取最新数据」加载最近发布的快照。地区来源受限时显示具体状态与官方入口。
 
 A compact interface for checking UNIQLO prices and offers without repeatedly opening individual product pages. The project extends a shopping-list interface inspired by GoodPrices with scheduled collection, clothing filters, region-specific browsing, and explicit source-quality states.
 
@@ -18,7 +18,7 @@ A compact interface for checking UNIQLO prices and offers without repeatedly ope
 
 ![Local development preview: regional navigation, clothing filters and mainland China product cards](../../assets/uniqlo-deals-preview.png)
 
-*Screenshot of the locally tested regional extension, using public product information. This is a project preview, not a publicly accessible application.*
+*Interface preview using public product information. Open the application above to browse the live GitHub Pages version.*
 
 ## Implemented behavior
 
@@ -45,14 +45,14 @@ The shared Hong Kong/Macau new-member rule is conditional: first-time membership
 
 ## Scheduled updates and publication status
 
-A private GitHub Actions workflow runs approximately every six hours, independently collects each market, validates results, and saves private snapshots. The mainland China update path remains compatible with the current private application.
+A private GitHub Actions workflow runs approximately every six hours, independently collects each market, validates results, saves private snapshots, builds the public interface, and publishes generated assets to a dedicated GitHub Pages repository. The full collection/build/publication cycle has completed successfully.
 
-The regional interface and import endpoints are implemented, browser-tested at desktop and mobile widths, and locally validated. Publishing that version to the original private app is currently pending restoration of the original Sites account/workspace connection. Until that publication completes, overseas collection results are saved privately and are not claimed to be live in the existing website.
+The public site uses only static assets and region-specific public JSON files. It does not depend on ChatGPT authentication, a private application API, or browser-held service credentials. The “Read latest data” button reloads published snapshots; it does not trigger collection or expose a write endpoint.
 
-After publication, the same workflow detects the regional API, imports each market separately, and reads it back to verify persistence. Failed collection retains the last valid snapshot and records the failure; stale rules stop appearing as current recommendations.
+Dated expired offers are removed, failed collection retains the last valid snapshot, and old rules stop appearing as current recommendations. Source restrictions remain visible. Original source and collection logic stay in the private repository; the public deployment repository contains generated browser assets and publicly sourced snapshots.
 
 ## Privacy and attribution
 
-The application, source code, data snapshots, Actions logs, and service credentials remain private. This public page contains only a project description and a safe interface preview; the direct application link keeps its existing sign-in restriction, and no private-repository links or access credentials are exposed.
+The application and its published product snapshots are publicly accessible. Original source, collection workflow, and publishing credentials remain private. Favorites and hidden-product preferences are stored only in the visitor’s browser. No service credentials, private repository links, or source maps are published. Saved preferences on the old ChatGPT site cannot automatically transfer to the new github.io origin.
 
 The layout was inspired by [GoodPrices](https://goodprices.online/uniqlo/), which supplies the mainland China public list. Official regional sources remain authoritative for purchase conditions, stock, membership eligibility, and checkout prices. This is an independent personal project and is not affiliated with UNIQLO.
