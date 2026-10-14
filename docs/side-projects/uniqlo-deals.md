@@ -7,7 +7,7 @@
 ## 怎么使用
 
 1. 打开应用，无需 ChatGPT 或 GitHub 登录；顶部可切换地区。
-2. 选择男装／女装和服装品类，或搜索商品名称、款号，直接查看价格与榜单尺码。
+2. 选择男装／女装和服装品类，或搜索商品名称、款号，直接查看价格与尺码（海外商品规格尺码不代表当前库存）。
 3. 点击商品图片或名称前往购买；点击爱心可收藏，收藏保存在当前浏览器。
 
 六地区界面已在 GitHub Pages 上线。后台约每 6 小时核对来源；页面「读取最新数据」加载最近发布的快照。地区来源受限时显示具体状态与官方入口。
@@ -33,13 +33,13 @@ A compact interface for checking UNIQLO prices and offers without repeatedly ope
 | Market | Current verified coverage |
 | --- | --- |
 | Mainland China | GoodPrices public product list; Tmall/Taobao and JD official activity checks are tracked separately. |
-| Japan | Official limited-offer entry available; automated product-list requests currently restricted. |
-| United States | Official limited-offer entry available; automated product-list requests currently restricted. |
+| Japan | Official limited offers and sale products, collected anonymously through the local storefront’s public product interface with complete pagination and JPY prices. |
+| United States | Official limited offers and sale products, collected anonymously through the local storefront’s public product interface with complete pagination and USD cents preserved. |
 | Hong Kong | Explicitly verified shared membership-coupon rules; no verified product-price list yet. |
 | Macau | Only official rules explicitly applicable to Macau; no inferred Macau product prices or currency conversion. |
 | Taiwan | Official entry available; a reliable public product list has not yet been obtained. |
 
-Six selectable markets do **not** mean six working realtime product feeds. Search-engine snippets, another market's prices, catalogue size ranges, and account-specific coupons are not substituted for verified current data.
+Product-price feeds are currently connected for mainland China, Japan and the United States. Hong Kong/Macau show the verified rules described above; Taiwan remains unavailable. Japanese and US size lists are labelled as product specifications, and their absence of a former price does not produce a discount percentage.
 
 The shared Hong Kong/Macau new-member rule is conditional: first-time membership, an HKD spending threshold, account-specific coupon issuance, and a validity period after issuance. It does not establish that a visitor owns a coupon or that every product has an automatic lower price. [Official Hong Kong/Macau coupon rules](https://faq-hk.uniqlo.com/articles/en_US/Knowledge/UNIQLO-Coupon-Details-HK000012369).
 

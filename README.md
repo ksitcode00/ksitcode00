@@ -153,7 +153,7 @@ Small, practical applications built around everyday decisions. This space is sep
 
 A personal shopping tool for browsing UNIQLO offers, clothing categories, and available source information. It uses six-hour scheduled updates, region-specific data and saved preferences, and clear labels when official sources cannot be verified.
 
-The six-region interface is live on GitHub Pages. Current collection supports the mainland China product list and verified Hong Kong/Macau membership rules; Japan, US, and Taiwan product lists remain unavailable and display source limitations rather than substitute prices.
+The six-region interface is live on GitHub Pages. Current collection supports mainland China prices plus official Japanese and US limited offers and sale products. Hong Kong/Macau currently provide verified membership rules; Taiwan product data remains unavailable with a clear source-status message.
 
 `React` · `JavaScript` · `GitHub Actions` · `Data Validation` · `Regional Shopping Tools`
 
