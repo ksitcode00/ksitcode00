@@ -2,15 +2,15 @@
 
 **Personal shopping utility · Public application · Private original source**
 
-[**打开应用 → / Open app**](https://ksitcode00.github.io/uniqlo-deals-site/)
+[**Open app**](https://ksitcode00.github.io/uniqlo-deals-site/)
 
-## 怎么使用
+## How to use it
 
-1. 打开应用，无需 ChatGPT 或 GitHub 登录；顶部可切换地区。
-2. 选择男装／女装和服装品类，或搜索商品名称、款号，直接查看价格与尺码（海外商品规格尺码不代表当前库存）。
-3. 点击商品图片或名称前往购买；点击爱心可收藏，收藏保存在当前浏览器。
+1. Open the app and choose English or Chinese and a region. No sign-in is required.
+2. Filter by clothing category or search by name or item code. Product size ranges are not stock guarantees.
+3. Select a product to visit the official store, or use the heart to save it in your browser.
 
-六地区界面已在 GitHub Pages 上线。后台约每 6 小时核对来源；页面「读取最新数据」加载最近发布的快照。地区来源受限时显示具体状态与官方入口。
+Sources are checked about every six hours. Select **Load latest offers** to see the latest published list.
 
 A compact interface for checking UNIQLO prices and offers without repeatedly opening individual product pages. The project extends a shopping-list interface inspired by GoodPrices with scheduled collection, clothing filters, region-specific browsing, and explicit source-quality states.
 

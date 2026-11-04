@@ -8,7 +8,7 @@
 
 M.S. Biostatistics, UC San Diego &nbsp;|&nbsp; B.S. Statistics, UC Davis
 
-[LinkedIn](https://www.linkedin.com/in/ka-wai-sit-723267212/) · [Resume](assets/KaWaiSit_Analytics_Resume_Public.pdf) · [Featured Projects](#featured-analytics-projects) · [Side Projects](#side-projects--生活工具) · [Email](mailto:kawaisit14@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ka-wai-sit-723267212/) · [Resume](assets/KaWaiSit_Analytics_Resume_Public.pdf) · [Featured Projects](#featured-analytics-projects) · [Side Projects](#side-projects) · [Email](mailto:kawaisit14@gmail.com)
 
 **Question → Clean & Validate → Analyze → Model → Visualize → Recommend**
 
@@ -141,27 +141,21 @@ Selected aggregate estimates from the final manuscript. [Phase comparisons, anal
 
 - [Statistical Learning: Classification & Model Selection](https://github.com/ksitcode00/statistical-learning-classification) — R implementations of logistic regression, LDA, SVM, trees, random forests, and cross-validation.
 
-## Side Projects · 生活工具
+## Side Projects
 
 Small, practical applications built around everyday decisions. This space is separate from my featured analytics and research work.
 
 ### [UNIQLO Deals Explorer](https://ksitcode00.github.io/uniqlo-deals-site/)
 
-[**打开应用 → / Open app**](https://ksitcode00.github.io/uniqlo-deals-site/) · [Project notes](docs/side-projects/uniqlo-deals.md)
+[**Open app**](https://ksitcode00.github.io/uniqlo-deals-site/) · [Project notes](docs/side-projects/uniqlo-deals.md)
 
-公开应用，无需 ChatGPT 或 GitHub 登录。进入后切换地区，选男装／女装和服装品类，查看价格与尺码；点商品图片或名称即可前往购买。后台约每 6 小时更新一次，收藏保存在当前浏览器。
-
-A personal shopping tool for browsing UNIQLO offers, clothing categories, and available source information. It uses six-hour scheduled updates, region-specific data and saved preferences, and clear labels when official sources cannot be verified.
+Browse UNIQLO offers by region and clothing category, check prices and sizes, and save items in your browser. The app supports English and Chinese and checks sources every six hours. No sign-in required.
 
 The six-region interface is live on GitHub Pages. Current collection supports mainland China prices and official Japanese, US, Hong Kong and Taiwan limited offers and sale products. Macau shows verified Hong Kong/Macau online-store offers in HKD with explicit Macau delivery eligibility; physical Macau-store prices are not inferred.
 
 `React` · `JavaScript` · `GitHub Actions` · `Data Validation` · `Regional Shopping Tools`
 
-[Project notes & coverage](docs/side-projects/uniqlo-deals.md)
 
-[![Local preview of UNIQLO Deals Explorer with region navigation, clothing filters and mainland China product cards](assets/uniqlo-deals-preview.png)](https://ksitcode00.github.io/uniqlo-deals-site/)
-
-*Six-region interface preview. The application is public; original source and collection workflow remain private.*
 
 ## Technical Skills
 
