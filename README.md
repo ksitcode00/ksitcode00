@@ -8,7 +8,7 @@
 
 M.S. Biostatistics, UC San Diego &nbsp;|&nbsp; B.S. Statistics, UC Davis
 
-[LinkedIn](https://www.linkedin.com/in/ka-wai-sit-723267212/) · [Resume](assets/KaWaiSit_Analytics_Resume_Public.pdf) · [Featured Projects](#featured-analytics-projects) · [Side Projects](#side-projects) · [Email](mailto:kawaisit14@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ka-wai-sit-723267212/) · [Resume](assets/KaWaiSit_Analytics_Resume_Public.pdf) · [Featured Projects](#featured-analytics-projects) · [Education Analytics](https://github.com/ksitcode00/elementary-school-progress-analysis) · [Side Projects](#side-projects) · [Email](mailto:kawaisit14@gmail.com)
 
 **Question → Clean & Validate → Analyze → Model → Visualize → Recommend**
 
@@ -127,6 +127,24 @@ Selected aggregate estimates from the final manuscript. [Phase comparisons, anal
 [Project README](https://github.com/ksitcode00/lead-quality-optimization) · [Analysis Notebook](https://github.com/ksitcode00/lead-quality-optimization/blob/main/notebooks/lead_quality_analysis.ipynb) · [Key Figures](https://github.com/ksitcode00/lead-quality-optimization/tree/main/figures) · [Methodology](https://github.com/ksitcode00/lead-quality-optimization/blob/main/docs/methodology.md)
 
 ![Lead quality decision dashboard](assets/lead-quality-decision-dashboard.svg)
+
+---
+
+### 06 · [Elementary School Progress & Attendance](https://github.com/ksitcode00/elementary-school-progress-analysis)
+
+**Context:** Education analytics case study using synthetic student information system data from four elementary schools.
+
+**Research question:** Where did K–5 students make progress, and which learning and attendance needs should a new school director discuss with principals?
+
+**Finding:** Among students below Benchmark at both tests in 2025–26, **90.5% in reading** and **93.0% in math** gained score points. **618 students** were below Benchmark at both tests in at least one subject.
+
+**Recommendation:** Verify current enrollment, review support for students with the lowest starting scores, and coordinate academic and attendance support where needs overlap.
+
+**My role:** Set the analytical direction, selected the findings and recommendations, and reviewed the analysis and interpretation. The project documents the AI assistance used.
+
+`Python` · `pandas` · `Clustered Regression` · `Education Analytics`
+
+[Project Overview](https://github.com/ksitcode00/elementary-school-progress-analysis) · [Analysis Notebook](https://github.com/ksitcode00/elementary-school-progress-analysis/blob/main/notebooks/fairmont_school_analysis.ipynb) · [PowerPoint Briefing](https://github.com/ksitcode00/elementary-school-progress-analysis/blob/main/briefing/KaWaiSit_Level_Director_Briefing.pptx) · [Methodology](https://github.com/ksitcode00/elementary-school-progress-analysis/blob/main/docs/methodology.md)
 
 ## Selected Research & Publications
 
