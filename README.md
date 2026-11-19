@@ -153,9 +153,9 @@ Selected aggregate estimates from the final manuscript. [Phase comparisons, anal
 - **Heat and Dust Impacts on the Health of Refugees in Zaatari Refugee Camp** — Co-author · *GeoHealth* (2026) · [Paper](https://pubmed.ncbi.nlm.nih.gov/42524033/) · [DOI](https://doi.org/10.1029/2025GH001687)
 - **Determinants of Concentrations of Indoor Pollutants in Homes in Rural India** — Co-author · submitted to *Indoor Air*
 - **Household Air Pollution by Cookstove Type and Home Characteristics** — Co-author · manuscript in preparation · statistical analysis completed
-- **Confidential Clinical Research** — Co-author · submitted manuscript
+- **Vision Screening and Eye Health Awareness in Adults: Data from the UCSD EyeMobile** — Co-author · manuscript in preparation
 - **Impacts of Improved Cookstoves on Indoor Pollution and Respiratory Illnesses** — Poster presenter · ACE Annual Meeting (2025)
-- **Confidential Clinical Research** — Poster presenter · ACE Annual Meeting (2025)
+- **EyeMobile Clinic for Detection and Prevention in Elderly Uninsured Minorities** — Poster presenter · ACE Annual Meeting (2025)
 
 ## Additional Technical Work
 
