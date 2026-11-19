@@ -146,6 +146,8 @@ Selected aggregate estimates from the final manuscript. [Phase comparisons, anal
 
 [Project Overview](https://github.com/ksitcode00/elementary-school-progress-analysis) · [Analysis Notebook](https://github.com/ksitcode00/elementary-school-progress-analysis/blob/main/notebooks/fairmont_school_analysis.ipynb) · [PowerPoint Briefing](https://github.com/ksitcode00/elementary-school-progress-analysis/blob/main/briefing/KaWaiSit_Level_Director_Briefing.pptx) · [Methodology](https://github.com/ksitcode00/elementary-school-progress-analysis/blob/main/docs/methodology.md)
 
+[![2025–26 fall-to-spring results: 90.5% in reading and 93.0% in math gained points among students below Benchmark at both tests](https://raw.githubusercontent.com/ksitcode00/elementary-school-progress-analysis/main/figures/elementary-school-progress-overview.png)](https://github.com/ksitcode00/elementary-school-progress-analysis#key-findings)
+
 ## Selected Research & Publications
 
 - **Heat and Dust Impacts on the Health of Refugees in Zaatari Refugee Camp** — Co-author · *GeoHealth* (2026) · [Paper](https://pubmed.ncbi.nlm.nih.gov/42524033/) · [DOI](https://doi.org/10.1029/2025GH001687)
